@@ -37,7 +37,7 @@
 
 
 例如：
-![弹窗截图](./screenshorts/tanchuang2.jpg)
+![弹窗截图](./screenshorts/tanchuana2.jpg)
 ![权限设置](./screenshorts/settings1.jpg)![](./screenshorts/settings2.jpg)![](./screenshorts/settings3.jpg)
 
 ## 📝 定制题库
